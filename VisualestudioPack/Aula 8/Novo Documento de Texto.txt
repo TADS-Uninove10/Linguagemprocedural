@@ -1,0 +1,34 @@
+ Dim n1, n2 As Integer
+    Dim op As Char
+
+    n1 = CInt(Me.TextBox1.Text)
+    n2 = CInt(Me.TextBox2.Text)
+    op = (Me.TextBox3.Text)
+
+
+    Select Case op
+
+        Case "a", "A"
+
+            sa(n1, n2)
+        Case "b", "B"
+
+            sb(n1, n2)
+        Case "c", "C"
+            sc(n1, n2)
+
+
+
+    End Select
+
+End Sub
+Private Sub sa(ByVal As Integer, ByVal Numero2 As Integer)
+    MessageBox.Show("A soma é " & Str((Numero1 + Numero2) / 3))
+End Sub
+
+Private Sub sb(ByVal Numero1 As Integer, ByVal Numero2 As Integer)
+    MessageBox.Show("A soma é " & Str(Numero1 ^ 1 * Numero2 ^ 2))
+End Sub
+Private Sub sc(ByVal Numero1 As Integer, ByVal Numero2 As Integer)
+    MessageBox.Show("A soma é " & Str(Numero1 Mod Numero2))
+End Sub

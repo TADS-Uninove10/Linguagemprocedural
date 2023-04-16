@@ -1,0 +1,123 @@
+<html>
+<head> 
+<title>Primeiro site </title>
+</head>
+<body bgcolor="grey">
+
+ 
+<font color="Red" size="6" face="Comic Sans MS"> <center> <i>Jackson Nunes</i>  </center> 
+
+
+
+
+<hr size="15" hr color="black" > </hr> 
+<br>
+<br>
+<br>
+
+<center> <img src="face.jpg" border="4"> </center>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<center> <b> <font size="5"> Comidas típicas : </b> </center> </font size>
+<br>
+<br>
+
+<h1>
+<ol type="1">
+<li> <u> Brasil </u> </li>
+<ul>Feijoada</ul>
+<img src="unt.png">
+
+<br> <br> <br> <br> 
+
+<li> <u> Japão </u> </li>
+<ul> Sushi </ul>
+<img src="japao.jpg" >
+
+<br> <br> <br> <br> 
+
+<li> <u> Portugal </u> </li>
+<ul> Bacalhau  </ul>
+<img src="portugal.jpg">
+
+
+<br> <br> <br> <br> 
+
+<li> <u> Espanha </u> </li>
+<ul> Paella </ul>
+<img src="espanha.jpg">
+
+<br> <br> <br> <br>
+
+<li> <u> Estados Unidos </u> </li> 
+<ul> Hamburger,fritas e refrigerante </ul>
+<img src="eua.jpg">
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<justify>
+A culinária brasileira é fruto de uma mistura de ingredientes europeus, indígenas e africanos. A refeição básica do brasileiro consiste em arroz, feijão e carne. O prato típico do país é a feijoada. Os hábitos alimentares variam de região para região. No Nordeste há grande influência africana na culinária, com destaque para o acarajé, vatapá e molho de pimenta. No Norte há a influência indígena, no uso da mandioca e de peixes. No Sudeste há pratos diversos como o feijão tropeiro e angú, em Minas Gerais, e a pizza em São Paulo. No Sul do país há forte influência da culinária italiana, em pratos como a polenta, e também da culinária alemã. O churrasco é típico do Rio Grande do Sul.
+
+
+</justify>
+
+
+
+</font>
+
+
+
+
+
+
+</ol>
+
+
+
+</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
